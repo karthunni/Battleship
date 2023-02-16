@@ -7,3 +7,6 @@ Python
 
 ## Libraries
 Pygame
+
+![Example1](./Example.png?raw=true "Game in Action")
+![Exampl2](./Example2.png?raw=true "Game in Action")
